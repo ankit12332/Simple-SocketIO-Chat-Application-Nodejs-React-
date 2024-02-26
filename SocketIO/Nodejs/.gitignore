@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+/dist
+
+# Logs
+*.log
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional directories created by JetBrains IDEs
+.idea/
